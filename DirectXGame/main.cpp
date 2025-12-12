@@ -27,6 +27,8 @@ int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ int) {
 			break;
 		}
 
+		//1-1
+
 		//ゲームシーンの更新
 		gameScene->Update();
 
